@@ -15,5 +15,9 @@
         echo "Hello, we are starting to work with Databases and PHP PDO!"; 
     ?>
     
+
+    <?php
+    include './includes/db.php';
+    ?>
 </body>
 </html>
